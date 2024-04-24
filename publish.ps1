@@ -1,0 +1,1 @@
+#sqlpackage /Action:Publish /SourceFile:".\SqlScripts\bin\Debug\warelogix.dacpac" /TargetConnectionString:"Server=tcp:warelogix-sqlserver.database.windows.net,1433;Initial Catalog=warelogix;Persist Security Info=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;User ID=sqlserveradmin;Password=ENTER_PASSWORD_HERE;"

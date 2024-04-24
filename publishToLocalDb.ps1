@@ -1,0 +1,1 @@
+sqlpackage /Action:Publish /SourceFile:".\SqlScripts\bin\Debug\Shopiverse.SqlScripts.dacpac" /TargetConnectionString:"Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=shopiverse;Integrated Security=SSPI;"
